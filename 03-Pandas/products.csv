@@ -1,0 +1,13 @@
+Date,Store,Product,Sales,Expenses,City
+2023-10-01,A,Product1,500,200,New York
+2023-10-01,B,Product2,800,300,Los Angeles
+2023-10-02,A,Product1,600,250,New York
+2023-10-02,B,Product2,750,280,Los Angeles
+2023-10-03,A,Product1,550,220,New York
+2023-10-03,B,Product2,900,350,Los Angeles
+2023-10-01,C,Product1,700,280,San Francisco
+2023-10-01,C,Product2,950,350,San Francisco
+2023-10-02,C,Product1,600,240,San Francisco
+2023-10-02,C,Product2,850,320,San Francisco
+2023-10-03,C,Product1,750,290,San Francisco
+2023-10-03,C,Product2,1000,400,San Francisco
